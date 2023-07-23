@@ -1,0 +1,5 @@
+{"db_host" : "40b8f30251.nxcli.io",
+"db_user" : "a4f2b49a_padawan",
+"db_password" : "KaratFlanksUgliedSpinal",
+"db_name" : "a4f2b49a_sample_database",
+"db_port" : 3306}
