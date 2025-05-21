@@ -1,5 +1,5 @@
 
-### Trabalhando com banco de dados local, remoto e API, consolidando e analisando dados.
+### This project provides a comprehensive approach to data extraction, transformation, and analysis using PySpark and PostgreSQL.
 
 ## Set-up
 1. Clone this project https://github.com/GIZELLYPY/h2.git
